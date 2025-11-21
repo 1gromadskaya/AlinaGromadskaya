@@ -32,7 +32,7 @@ Dedicated to developing fundamental programming skills into practical solutions 
 
 
 ## Connect with me  
-You can reach me via [Telegram](https://t.me/gromadskayaaaa) or check my [CV]().
+You can reach me via [Telegram](https://t.me/gromadskayaaaa) or check my [CV](https://github.com/1gromadskaya/1gromadskaya/blob/main/CV_Gromadskaya.pdf).
   
 
 
