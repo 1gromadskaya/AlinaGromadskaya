@@ -1,47 +1,40 @@
+# Hi there! I'm Alina 👋 
 
-  
+<!-- Animated Title Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=3000&color=39FF14&center=true&vCenter=true&lines=Data+Engineer+%26+Data+Analyst;BSU+Student;Building+Pipelines+%F0%9F%9A%A7" alt="Typing SVG" />
+</p>
 
-### <div align="center">Неllo👋</div>  
-  
+I'm an **Junior Data Engineer & Data Analyst** studying Applied Mathematics and Computer Science at Belarusian State University. I love turning messy raw data into clean pipelines and useful insights! 
 
-My name is Alina Gromadskaya, I'm a 3 year student at Faculty of Applied Maths and Computer Science at BSU.  Beginner Data Engineer with a strong interest in data processing, storage, and performance optimization.
-Dedicated to developing fundamental programming skills into practical solutions for data infrastructure challenges. A self-motivated individual seeking a long-term position to build and manage reliable data systems in a professional environment that fosters continuous learning and technical excellence
-  
+---
 
-<br/>  
+### 🛠️ Tech Stack & Skills
 
+* **Languages:** Python, SQL, C++ 
+* **Data Processing:** Pandas, NumPy, PySpark 
+* **Databases & Warehouses:** PostgreSQL, MS SQL Server, MongoDB, ClickHouse, Snowflake 
+* **Orchestration & Tools:** Apache Airflow, Docker, Git, LocalStack (AWS)
+* **BI & Visualization:** Power BI, Tableau 
 
-## My Skill Set  
-<div>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
-</div>
+---
 
+### 💡 What I Can Do
+* **Build Data Pipelines:** Create and automate reliable workflows using Apache Airflow and PySpark to process large datasets.
+* **Work with Cloud & Containers:** Set up local cloud and infrastructure environments using Docker and LocalStack (AWS).
+* **Manage Databases:** Design, query, and optimize data storage across relational, NoSQL, and analytical databases (PostgreSQL, MS SQL Server, MongoDB, ClickHouse, Snowflake).
+* **Analyze & Visualize Data:** Clean raw data with Pandas and NumPy, and turn it into actionable insights using Power BI and Tableau.
 
-</td></tr></table>  
+---
 
-<br/>  
+### 📚 Certifications
+* **Astronomer:** Apache Airflow 3 Fundamentals & DAG Authoring Certifications 
+* **SQL Academy:** Interactive SQL Course 
+* **Kaggle:** Python, Intro to SQL, Advanced SQL
 
-### Badges
+---
 
-<a href="https://github.com/1gromadskaya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1gromadskaya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-## Connect with me  
-You can reach me via [Telegram](https://t.me/gromadskayaaaa) or check my [CV](https://github.com/1gromadskaya/1gromadskaya/blob/main/CV_Gromadskaya.pdf).
-  
-
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=1gromadskaya&&style=flat-square" align="center" />
-</div>  
-  
-
-
-
+### 📫 Let's Connect!
+* **Email:** gromadskaya.06@gmail.com 
+* **Telegram:** [@gromadskayaaaa](https://t.me/gromadskayaaaa)
+* **LinkedIn:** [Alina Gromadskaya](https://www.linkedin.com/in/alina-gromadskaya-b627a9396)
